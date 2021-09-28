@@ -23,9 +23,6 @@
 <h2 align="center">Links</h2>
 <p>
   <ul>
-    <li>🌐 <a href="https://frenchbones.net/">Website</a></li>
-    <li>🎥 <a href="https://www.youtube.com/channel/UCZU88NMaYcEHoOJjukq_q6A">YouTube</a></li>
-    <li>🐦 <a href="https://twitter.com/bonnss_">Twitter</a></li>
     <li>📧 <a href="https://frenchbones.net/contact">Contact Me / Other Links</a></li>
   <ul>
 <p>
